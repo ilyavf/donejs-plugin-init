@@ -1,3 +1,3 @@
 export default function () {
-  return `This is my-plugin`;
+  return `This is my-plugin`
 }
